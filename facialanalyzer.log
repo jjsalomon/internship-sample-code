@@ -1,0 +1,9 @@
+INFO 2017-07-26 16:35:59,894 - Facial Analyzer Module Instantiated
+INFO 2017-07-26 16:35:59,894 - Analysis Thread has Begun(user:jelo, userId:1,database instance:<dbhelper.DatabaseHelper object at 0x0000000002D73A20>)
+INFO 2017-07-26 16:35:59,894 - Image Path:\jelo\
+DEBUG 2017-07-26 16:35:59,894 - dataevr Pass !
+INFO 2017-07-26 16:36:15,429 - Duration20.5, Blinks0
+INFO 2017-07-26 16:36:15,429 - Analysis Result: Peaks0, Troughs0
+INFO 2017-07-26 16:36:15,429 - Data has been inserted into the Database
+INFO 2017-07-26 16:36:15,429 - Analysis values has been reset
+INFO 2017-07-26 16:36:15,429 - Video Analysis Completed
